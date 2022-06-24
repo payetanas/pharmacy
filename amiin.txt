@@ -1,0 +1,702 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Praroz</title>
+    <link rel="stylesheet" href="electronic.css">
+    <link rel="shortcut icon" href="electronic.jpg" type="image/x-icon">
+</head>
+<body>
+    <div class="main">
+        <div class="navbar">
+            <div class="icon">
+                <h2 class="logo">Electronic</h2>
+            </div>
+            <div class="menu">
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">Service</a></li>
+                    <li><a href="#">Our Team</a></li>
+                    <li><a href="#">About</a></li>
+                    <li><a href="#">Contact</a></li>
+                </ul>
+            </div>
+
+            <div class="search">
+                <input class="srch" type="search" name="" placeholder="type to text">
+                <a href="#"> <button class="btn">search</button></a>
+            </div>
+        </div>
+            <div class="content">
+                <h1>Give You & <br><span> Workout</span> <br>A New Style!</h1>
+                <p class="par"><strong>Success isn't always about greatness. it's about consistency.
+                  <br>  Constant hard work gain Success. Greatness will come.</strong></p>
+
+                <button class="cn"> <a href="#">Explore Now</a></button>
+
+                <div class="form">
+                    <h2>Login Here</h2>
+                    <input type="email" name="email" placeholder="Enter Email Here">
+                    <input type="password" name="" placeholder="Enter Password Here">
+                    <button class="btnn"><a href="#">Login</a></button>
+
+                    <p class="link">Don't have an account<br>
+                    <a href="#">Sing up</a> here</p>
+                    <p class="liw">Log in with</p>
+                </div>
+               
+            </div>    
+    </div>
+    <div class="sev1">
+        <section>
+            <h1 class="service">Our Service </h1>
+            <div class="service-row">
+                <div class="mem">
+                    <img src="computer.jpg" alt="">
+                    <h2>Computer</h2>
+                    <p>820$</p>
+                </div>
+                <div class="mem">
+                    <img src="canon.jpg" alt="">
+                    <h2>Canon</h2>
+                    <p>250$</p>
+                </div>
+                <div class="mem">
+                    <img src="server.jpg" alt="">
+                    <h2>Server</h2>
+                    <p>300$</p>
+                </div>
+                <div class="mem">
+                    <img src="fiilo.jpg" alt="">
+                    <h2>Wire</h2>
+                    <p>20$</p>
+                </div>
+                <div class="mem">
+                    <img src="Iphone.jpg" alt="">
+                    <h2>Iphone</h2>
+                    <p>1300$</p>
+                </div>
+                <div class="mem">
+                    <img src="tecno.jpg" alt="">
+                    <h2>Tecno</h2>
+                    <p>70$</p>
+                </div>
+                <div class="mem">
+                    <img src="saacad.jpg" alt="">
+                    <h2>Watch</h2>
+                    <p>22$</p>
+                </div>
+                <div class="mem">
+                    <img src="dhago.jpg" alt="">
+                    <h2>Air Pods</h2>
+                    <p>10$</p>
+                </div>
+                <div class="mem">
+                    <img src="frige.jpg" alt="">
+                    <h2>Frige</h2>
+                    <p>300$</p>
+                </div>
+                <div class="mem">
+                    <img src="hormuud.jpg" alt="">
+                    <h2>Remoute</h2>
+                    <p>3$</p>
+                </div>
+            </div>
+        </section>
+    </div>
+    <div>
+        <section>
+            <h1 class="team">Our team</h1>
+            <div class="team-row">
+                <div class="member">
+                    <img src="zapir.jpeg" alt="">
+                    <h2>Zaapir Mohamed Hassan</h2>
+                    <p>Web Developer</p>
+                </div>
+                <div class="member">
+                    <img src="bernad.jpeg" alt="">
+                    <h2>Zakariye Khaliif Husein</h2>
+                    <p>Web Developer</p>
+                </div>
+                <div class="member">
+                    <img src="zahra.jpeg" alt="">
+                    <h2>Zahra Ahmed Ibraahim</h2>
+                    <p>Web Developer</p>
+                </div>
+                <div class="member">
+                    <img src="mss.jpeg" alt="">
+                    <h2>Hani Bishaar Mohamed</h2>
+                    <p>Web Developer</p>
+                </div>
+                <div class="member">
+                    <img src="osama.jpeg" alt="">
+                    <h2>Osman Mohamed Anod</h2>
+                    <p>Web Developer</p>
+                </div>
+                <div class="member">
+                    <img src="foos.jpeg" alt="">
+                    <h2>Foos Abdi Mohamed</h2>
+                    <p>Web Developer</p>
+                </div>
+                <div class="member">
+                    <img src="mehran.jpeg" alt="">
+                    <h2>Mehran Mohamed Ali</h2>
+                    <p>Web Developer</p>
+                </div>
+            </div>
+        </section>
+    </div>
+    <section class="about">
+        <div class="anas">
+            <img src="about.jpg" alt="">
+            <div class="text">
+                <h1>About Us</h1>
+                <h5>Developer & Designer</h5>
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Natus voluptas qui officiis saepe omnis, nulla optio laboriosam eum, veritatis fugit illo ab! Adipisci numquam quo iste totam assumenda repudiandae ducimus!</p>
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Natus voluptas qui officiis saepe omnis, nulla optio laboriosam eum, veritatis fugit illo ab! Adipisci numquam quo iste totam assumenda repudiandae ducimus!</p>
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Natus voluptas qui officiis saepe omnis, nulla optio laboriosam eum, veritatis fugit illo ab! Adipisci numquam quo iste totam assumenda repudiandae ducimus!</p>
+
+
+            </div>
+        </div>
+    </section>
+    <section class="contact">
+        <div class="contant">
+            <h2>Contact Us</h2>
+            <p>Any Additional Information You Need</p>
+            <p>You Can Contact Us At The Addresses On The Screen </p>
+        </div>
+        <div class="container">
+            <div class="contactinfo">
+                <div class="box">
+                    <div class="icon"><i class="fa fa-map-marker" aria-hidden="true"></i></div>
+                        <div class="txt">
+                            <h3>Address</h3>
+                            <p>km4 road,<br>Mogadisho,somalia,</p>
+                        </div>
+                </div> 
+
+                <div class="box">
+                    <div class="icon"><i class="fa fa-phone" aria-hidden="true"></i></div>
+                        <div class="txt">
+                            <h3>Phone</h3>
+                            <p>+252612350142</p>
+                        </div>
+                </div>
+
+                    <div class="box">
+                        <div class="icon"><i class="fa fa-envelope-o" aria-hidden="true"></i></div>
+                            <div class="txt">
+                                <h3>Email</h3>
+                                <p>Abdirizakmagan700@gmail.com</p>
+                            </div>
+                    </div>
+            </div>
+        </div>
+    </section>
+</body>
+</html>
+
+
+
+
+
+
+
+
+css............................................................
+
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    width: 100%;
+    background: url(back.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 109vh;
+}
+.navbar{
+    width: 1200px;
+    height: 75px;
+    margin: auto;
+}
+.icon{
+    width: 200px;
+    float: left;
+    height: 70px;
+}
+.logo{
+    color: #ff7200;
+    font-size: 35px;
+    font-family: Arial;
+    padding-top: 10px;
+}
+.menu{
+    width: 400px;
+    float: left;
+    height: 70px;
+}
+ul{
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+ul li{
+    list-style-type: none;
+    margin-left: 60px;
+    margin-top: 25px;
+    font-size: 20px;
+}
+ul li a{
+    text-decoration: none;
+    color: white;
+    font-family: Arial;
+    font-weight: bold;
+    transition: 0.4s;
+}
+a:hover{
+    color: #ff7200;
+}
+.search{
+    width: 330px;
+    float: left;
+    margin-left: 270px;
+}
+.srch{
+    font-family: 'Times New Roman';
+    width: 200px;
+    height: 40px;
+    background: transparent;
+    border: 2px solid #ff7200;
+    margin-top: 13px;
+    border-right: none;
+    font-size: 15px;
+    float: left;
+    padding: 10px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+.btn{
+    width: 100px;
+    height: 40px;
+    background: #ff7200;
+    border: 2px solid #ff7200;
+    margin-top: 13px;
+    color: #fff;
+    font-size: 15px;
+    border-bottom-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.btn:focus{
+    outline: none;
+}
+.srch:focus{
+    outline: none;
+}
+.content{
+    width: 1200px;
+    height: auto;
+    margin: auto;
+    color: #fff;
+    position: relative;
+}
+.content .par{
+    padding-left: 20px;
+    padding-bottom: 25px;
+    font-family: Arial;
+    letter-spacing: 1;
+    line-height: 30px;
+}
+.content h1{
+    font-family: 'Times New Roman';
+    font-size: 50px;
+    padding-left: 20px;
+    margin-top: 9%;
+    letter-spacing: 2px;
+}
+
+.content .cn{
+    width: 160px;
+    height: 40px;
+    background:#ff7200;
+    border: none;
+    margin-bottom: 10px;
+    font-size: 18px;
+    margin-left: 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: .4s ease;
+}
+.content .cn a{
+    text-decoration: none;
+    color: black;
+    transition: .3s ease;
+}
+.cn:hover{
+    background-color: #fff;
+}
+
+.content span{
+    color: #ff7200;
+    font-size: 60px;
+}
+.form{
+    width: 250px;
+    height: 380px;
+    background: linear-gradient(to top, rgba(0,0,0,0.8)50%,rgb(0,0,0,0.8)50%);
+    position: absolute;
+    top: -20px;
+    left: 870px;
+    border-radius: 10px;
+    padding: 25px;
+}
+
+.form h2{
+    width: 220px;
+    font-family: sans-serif;
+    text-align: center;
+    color: #ff7200;
+    font-size: 22px;
+    background-color: #fff;
+    border-radius: 10px;
+    margin: 2px;
+    padding: 8px;
+}
+
+.form input{
+    width: 240px;
+    height: 35px;
+    background: transparent;
+    border-bottom: 1px solid #ff7200;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    color: #fff;
+    font-size: 15px;
+    letter-spacing: 1px;
+    margin-top: 30px;
+    font-family: sans-serif;
+}
+
+.form input:focus{
+    outline: none;
+}
+::placeholder{
+    color: #fff;
+    font-family: Arial;
+}
+
+.btnn{
+    width: 240px;
+    height: 40px;
+    background: #ff7200;
+    border: none;
+    margin-top: 30px;
+    font-size: 18px;
+    border-radius: 10px;
+    cursor: pointer;
+    color: #fff;
+    transition: 0.4s;
+}
+
+.btnn:hover{
+    background: #fff;
+    color: #ff7200;
+}
+.btnn a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+.form .link{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.form .link a{
+    text-decoration: none;
+    color: #ff7200;
+}
+
+.liw{
+    padding-top: 15px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+.sev1{
+    background-color: whitesmoke;
+}
+
+.service{
+    font-size: 40px;
+    text-align: center;
+    text-transform: capitalize;
+    color: #04010e;
+    margin: 10px 0;
+    position: relative;
+    
+}
+.service after {
+    content: --;
+    position: absolute;
+    width: 20%; height: 2px;
+    background-image: linear-gradient(to left ,transparent  5%, #726a95);
+    bottom: -10px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.service-row{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap; 
+    padding: 40px 0;
+}
+.mem{
+    flex: 1 1 250px;
+    margin: 20px;
+    text-align: center;
+    padding: 20px 10px;
+    cursor: pointer;
+    max-width: 200px;
+}
+.mem:hover{
+    box-shadow: 0 10px 20px rgb(57, 9, 231);
+    transform: translateY(-50px);
+}
+.mem img{
+    display: block;
+    width: 150px; height: 150px;
+    object-fit: cover;
+    border: 3px solid #910f0f;
+    border-radius: 10px;
+    margin: 0 auto;
+}
+.mem h2{
+    text-transform: uppercase;
+    font-size: 25px;
+    color: rgb(7, 7, 29);
+    margin: 15px 0;
+}
+.mem p{
+    font-size: 40px;
+    color: #1601d1;
+}
+
+
+section{
+    background-color: whitesmoke;
+}
+.team{
+    font-size: 40px;
+    text-align: center;
+    text-transform: capitalize;
+    color: #04010e;
+    margin: 10px 0;
+    position: relative;
+    
+}
+.team after {
+    content: --;
+    position: absolute;
+    width: 20%; height: 2px;
+    background-image: linear-gradient(to left ,transparent  5%, #726a95);
+    bottom: -10px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.team-row{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap; 
+    padding: 40px 0;
+}
+.member{
+    flex: 1 1 250px;
+    margin: 30px;
+    text-align: center;
+    padding: 20px 10px;
+    cursor: pointer;
+    max-width: 200px;
+}
+.member:hover{
+    box-shadow: 0 10px 20px rgba(11, 245, 42, 0.945);
+    transform: translateY(-50px);
+}
+.member img{
+    display: block;
+    width: 150px; height: 150px;
+    object-fit: cover;
+    border: 3px solid #910f0f;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+.member h2{
+    text-transform: uppercase;
+    font-size: 20px;
+    color: rgb(7, 7, 29);
+    margin: 15px 0;
+}
+.member p{
+    font-size: 20px;
+    color: #ff7200;
+}
+
+
+.about{
+    background-color: whitesmoke;
+    font-size: 40px;
+    text-align: center;
+    color: #04010e;
+    margin: 10px 0;
+    position: relative;
+    justify-content: center;
+    letter-spacing: 1px;
+}
+
+.about .anas img{
+    height: 400px;
+    width: 450px;
+    max-width: 100%;
+    border: 2px solid #ff7200;
+    border-radius: 15px;
+}
+
+.text{
+    width: 550px;
+    max-width: 100%;
+    padding: 0 10px;
+}
+.anas{
+    width: 1280px;
+    max-width: 95%;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+}
+.text h1{
+    color: #ff7200;
+    font-size: 85px;
+    margin-bottom: 20px;
+    text-transform: capitalize;
+}
+.text h5{
+    color: blue;
+    font-size: 35px;
+    margin-bottom: 25px;
+    text-transform: capitalize;
+    letter-spacing: 2px;
+}
+
+.text p{
+    color: black;
+    font-size: 18px;
+    line-height: 15px;
+    letter-spacing: 1px;
+    margin-bottom: 45px;
+}
+.contact{
+    background: whitesmoke;
+    position: relative;
+    min-height: 100vh;
+    padding: 50px 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-size: cover;
+}
+.contact .contant{
+    max-width: 800px;
+    text-align: center;
+}
+
+.contact .contant h2{
+    font-size: 36px;
+    font-weight: 500;
+    color: #ff7200;
+}
+.contact .contant p{
+    font-weight: 300;
+    color: #000;
+    margin-top: 20px;
+}
+.container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+    margin-top: 30px;
+}
+.container .contactinfo{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+}
+.container .contactinfo .box{
+    position: relative;
+    padding: 20px 0;
+    display: flex;
+}
+.container .contactinfo .box .icon{
+    width: 50px;
+    height: 50px;
+    background: #838383;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+    font-size: 22px;
+}
+
+.container .contactinfo .box .txt{
+    display: flex;
+    margin-left: 20px;
+    font-size: 16px;
+    color: #000;
+    flex-direction: column;
+    font-weight: 300;
+}
+.container .contactinfo .box .txt h3{
+    font-weight: 500;
+    color: blue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

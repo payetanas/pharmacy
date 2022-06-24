@@ -1,0 +1,12 @@
+BODY{
+    background-color: rgb(111, 206, 33);
+    font-size: 50px;
+}
+.login{
+    color: rgb(0, 40, 218);
+    margin: 300px;
+    padding:0 ;
+    text-align: center;
+    width: auto;
+    /* height: 150px; */
+}

@@ -1,0 +1,72 @@
+.wrepp{
+    margin: 0 auto;
+    width: 1000px;
+}
+.iframe{
+    width: 100px;
+}
+
+
+
+
+
+
+
+/* .sev1{
+    background-color: #aee05d;
+}
+
+.service{
+    font-size: 40px;
+    text-align: center;
+    text-transform: capitalize;
+    color: #04010e;
+    margin: 10px 0;
+    position: relative;
+    
+}
+.service after {
+    content: --;
+    position: absolute;
+    width: 20%; height: 2px;
+    background-image: linear-gradient(to left ,transparent  5%, #726a95);
+    bottom: -10px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.service-row{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap; 
+    padding: 40px 0;
+}
+.mem{
+    flex: 1 1 250px;
+    margin: 20px;
+    text-align: center;
+    padding: 20px 10px;
+    cursor: pointer;
+    max-width: 200px;
+}
+.mem:hover{
+    box-shadow: 0 10px 20px rgba(100, 100, 0, 0.1);
+    transform: translateY(-50px);
+}
+.mem img{
+    display: block;
+    width: 150px; height: 150px;
+    object-fit: cover;
+    border: 3px solid #910f0f;
+    border-radius: 20%;
+    margin: 0 auto;
+}
+.mem h2{
+    text-transform: uppercase;
+    font-size: 25px;
+    color: rgb(7, 7, 29);
+    margin: 15px 0;
+}
+.mem p{
+    font-size: 40px;
+    color: #1601d1;
+} */
